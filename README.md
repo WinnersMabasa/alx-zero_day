@@ -1,2 +1,1 @@
-My first readme 
-Read my text
+i love software engineering
