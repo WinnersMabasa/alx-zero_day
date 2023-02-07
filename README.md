@@ -1,2 +1,2 @@
 My first readme 
-My read me text
+Read my text
